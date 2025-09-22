@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activity Life Cycle</string>
+    <string name="activity_lifecycle_log">Activity Lifecycle Log</string>
+</resources>
